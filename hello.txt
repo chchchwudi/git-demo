@@ -7,8 +7,5 @@ hello atguigu!!da
 hello atguigu!!sda
 hello atguigu!!da
 hello atguigu!!sd
-hello atguigu!!asd
-hello atguigu!!a
-hello atguigu!!sda
-hello atguigu!!sd
-hello atguigu!!asd
+hello atguigu!!
+hello atguigu!!
